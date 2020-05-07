@@ -104,3 +104,8 @@ ENV/
 *.iml
 .DS_Store
 /Pipfile
+
+# virtualenv
+.headline
+headline/
+ENV/
